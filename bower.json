@@ -4,6 +4,6 @@
   "main": "./ui-codemirror.js",
   "dependencies": {
     "angular": ">=1.0.x",
-    "codemirror": "~3.19.0"
+    "codemirror": "git@github.com:pixnet/CodeMirror.git#v4.0beta1-build"
   }
 }
